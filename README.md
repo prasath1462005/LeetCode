@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prasath1462005/LeetCode/tree/master/0009-palindrome-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prasath1462005/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Hash Table
 |  |
 | ------- |
