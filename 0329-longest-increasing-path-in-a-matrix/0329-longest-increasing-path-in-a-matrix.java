@@ -8,17 +8,12 @@ class Solution {
         int max=0;
         for(int i=0;i<m.length;i++){
             for(int j=0;j<m[0].length;j++){
-                int v=dfs(i,j,m);
+                int v=0;
+                if(dp[i][j]==0)v=dfs(i,j,m);
                 max=Math.max(max,v);
                 if(dp[i][j]<v)dp[i][j]=v;
             }
         }
-        /*for(int i=0;i<m.length;i++){
-            for(int j=0;j<m[0].length;j++){
-                System.out.print(dp[i][j]+" ");
-            }
-            System.out.println();
-        }*/
         return max;
     }
     public int dfs(int r,int c,int[][] m){
