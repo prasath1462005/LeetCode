@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prasath1462005/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/prasath1462005/LeetCode/tree/master/0069-sqrtx) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prasath1462005/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prasath1462005/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Hash Table
@@ -69,4 +70,8 @@ LeetCode
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/prasath1462005/LeetCode/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/prasath1462005/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
