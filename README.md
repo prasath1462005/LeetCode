@@ -65,4 +65,8 @@ LeetCode
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prasath1462005/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
