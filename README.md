@@ -9,6 +9,7 @@ LeetCode
 | [0009-palindrome-number](https://github.com/prasath1462005/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/prasath1462005/LeetCode/tree/master/0069-sqrtx) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prasath1462005/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/prasath1462005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prasath1462005/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Hash Table
 |  |
@@ -85,4 +86,8 @@ LeetCode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prasath1462005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/prasath1462005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
