@@ -39,11 +39,13 @@ LeetCode
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/prasath1462005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
@@ -89,6 +91,7 @@ LeetCode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/prasath1462005/LeetCode/tree/master/0069-sqrtx) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -109,4 +112,8 @@ LeetCode
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prasath1462005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
