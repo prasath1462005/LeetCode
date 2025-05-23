@@ -2,7 +2,6 @@ class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
         int n1=no(nums,k);
         int n2=no(nums,k-1);
-        System.out.print(n1+" "+n2);
         return Math.abs(n1-n2);
     }
     public int no(int[] nums,int k){
