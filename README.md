@@ -58,6 +58,7 @@ LeetCode
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/prasath1462005/LeetCode/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/prasath1462005/LeetCode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/prasath1462005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -172,4 +173,8 @@ LeetCode
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/prasath1462005/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/prasath1462005/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/prasath1462005/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
