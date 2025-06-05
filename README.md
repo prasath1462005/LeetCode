@@ -37,6 +37,7 @@ LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/prasath1462005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasath1462005/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasath1462005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/prasath1462005/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prasath1462005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prasath1462005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prasath1462005/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -155,6 +156,7 @@ LeetCode
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/prasath1462005/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2793-count-the-number-of-complete-components](https://github.com/prasath1462005/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
