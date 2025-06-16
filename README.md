@@ -61,6 +61,7 @@ LeetCode
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/prasath1462005/LeetCode/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/prasath1462005/LeetCode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -196,4 +197,12 @@ LeetCode
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/prasath1462005/LeetCode/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
