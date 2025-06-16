@@ -10,6 +10,7 @@ LeetCode
 | [0069-sqrtx](https://github.com/prasath1462005/LeetCode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prasath1462005/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prasath1462005/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/prasath1462005/LeetCode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/prasath1462005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prasath1462005/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Hash Table
@@ -191,4 +192,8 @@ LeetCode
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prasath1462005/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/prasath1462005/LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
