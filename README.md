@@ -30,6 +30,7 @@ LeetCode
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prasath1462005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prasath1462005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
@@ -43,6 +44,7 @@ LeetCode
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/prasath1462005/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prasath1462005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prasath1462005/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prasath1462005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prasath1462005/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
@@ -163,6 +165,7 @@ LeetCode
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prasath1462005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prasath1462005/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Number Theory
 |  |
 | ------- |
@@ -185,6 +188,7 @@ LeetCode
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +203,7 @@ LeetCode
 | ------- |
 | [0135-candy](https://github.com/prasath1462005/LeetCode/tree/master/0135-candy) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Enumeration
 |  |
 | ------- |
