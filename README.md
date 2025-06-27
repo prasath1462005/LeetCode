@@ -36,6 +36,7 @@ LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasath1462005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/prasath1462005/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasath1462005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prasath1462005/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/prasath1462005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -110,6 +111,7 @@ LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prasath1462005/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasath1462005/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prasath1462005/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -217,6 +219,7 @@ LeetCode
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prasath1462005/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2050-count-good-numbers](https://github.com/prasath1462005/LeetCode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
