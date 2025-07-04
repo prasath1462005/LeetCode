@@ -1,14 +1,11 @@
 class Solution {
     public char kthCharacter(int k) {
-        StringBuilder s=new StringBuilder();
-        s.append('a');
-        while(s.length()<=k){
-            String ss=new String(s.toString());
-            for(int i=0;i<ss.length();i++){
-                s.append((char)((((ss.charAt(i)-'a')+1)%26)+'a'));
-            }
-            //System.out.println(s);
-        }
-        return s.charAt(k-1);
+        return (char)(kk(k)+'a');
+    }
+    public int kk(int num){
+        if(num<=1)return 0;
+        double log2=Math.log(num) / Math.log(2);
+        int po=(int)Math.ceil(log2);
+        return (kk(num-(int)Math.pow(2,po-1))+1)%26;
     }
 }
