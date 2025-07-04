@@ -13,6 +13,7 @@ LeetCode
 | [2050-count-good-numbers](https://github.com/prasath1462005/LeetCode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/prasath1462005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prasath1462005/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prasath1462005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ LeetCode
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prasath1462005/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prasath1462005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,6 +228,7 @@ LeetCode
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prasath1462005/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2050-count-good-numbers](https://github.com/prasath1462005/LeetCode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prasath1462005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,6 +243,7 @@ LeetCode
 | ------- |
 | [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prasath1462005/LeetCode/tree/master/0090-subsets-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prasath1462005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
 | ------- |
