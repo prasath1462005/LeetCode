@@ -103,6 +103,7 @@ LeetCode
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prasath1462005/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3639-zero-array-transformation-i](https://github.com/prasath1462005/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +205,7 @@ LeetCode
 | [1046-max-consecutive-ones-iii](https://github.com/prasath1462005/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prasath1462005/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prasath1462005/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3639-zero-array-transformation-i](https://github.com/prasath1462005/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Sorting
 |  |
 | ------- |
