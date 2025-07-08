@@ -96,6 +96,7 @@ LeetCode
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prasath1462005/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prasath1462005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -127,6 +128,7 @@ LeetCode
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasath1462005/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/prasath1462005/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prasath1462005/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Depth-First Search
 |  |
@@ -175,6 +177,7 @@ LeetCode
 | ------- |
 | [0069-sqrtx](https://github.com/prasath1462005/LeetCode/tree/master/0069-sqrtx) |
 | [1046-max-consecutive-ones-iii](https://github.com/prasath1462005/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
@@ -211,6 +214,7 @@ LeetCode
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prasath1462005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Divide and Conquer
