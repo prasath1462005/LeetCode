@@ -34,6 +34,7 @@ LeetCode
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prasath1462005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prasath1462005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -101,6 +102,7 @@ LeetCode
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prasath1462005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -123,6 +125,7 @@ LeetCode
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prasath1462005/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prasath1462005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -218,6 +221,7 @@ LeetCode
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prasath1462005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Divide and Conquer
@@ -279,4 +283,5 @@ LeetCode
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prasath1462005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
