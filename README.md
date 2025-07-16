@@ -87,6 +87,7 @@ LeetCode
 | [0283-move-zeroes](https://github.com/prasath1462005/LeetCode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/prasath1462005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0881-loud-and-rich](https://github.com/prasath1462005/LeetCode/tree/master/0881-loud-and-rich) |
 | [0940-fruit-into-baskets](https://github.com/prasath1462005/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/prasath1462005/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/prasath1462005/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -141,6 +142,7 @@ LeetCode
 | ------- |
 | [0310-minimum-height-trees](https://github.com/prasath1462005/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0881-loud-and-rich](https://github.com/prasath1462005/LeetCode/tree/master/0881-loud-and-rich) |
 | [2793-count-the-number-of-complete-components](https://github.com/prasath1462005/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/prasath1462005/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/prasath1462005/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -159,6 +161,7 @@ LeetCode
 | ------- |
 | [0310-minimum-height-trees](https://github.com/prasath1462005/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0881-loud-and-rich](https://github.com/prasath1462005/LeetCode/tree/master/0881-loud-and-rich) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/prasath1462005/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2793-count-the-number-of-complete-components](https://github.com/prasath1462005/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -166,6 +169,7 @@ LeetCode
 | ------- |
 | [0310-minimum-height-trees](https://github.com/prasath1462005/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0881-loud-and-rich](https://github.com/prasath1462005/LeetCode/tree/master/0881-loud-and-rich) |
 ## Memoization
 |  |
 | ------- |
