@@ -50,6 +50,7 @@ LeetCode
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasath1462005/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasath1462005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/prasath1462005/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/prasath1462005/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prasath1462005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prasath1462005/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prasath1462005/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
