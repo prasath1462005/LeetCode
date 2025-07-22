@@ -33,6 +33,7 @@ LeetCode
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prasath1462005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/prasath1462005/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prasath1462005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -71,6 +72,7 @@ LeetCode
 | [1370-count-number-of-nice-subarrays](https://github.com/prasath1462005/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prasath1462005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prasath1462005/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/prasath1462005/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prasath1462005/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prasath1462005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/prasath1462005/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -100,6 +102,7 @@ LeetCode
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prasath1462005/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/prasath1462005/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prasath1462005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
