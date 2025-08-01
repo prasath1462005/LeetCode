@@ -83,6 +83,7 @@ LeetCode
 | [0040-combination-sum-ii](https://github.com/prasath1462005/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prasath1462005/LeetCode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/prasath1462005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasath1462005/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/prasath1462005/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/prasath1462005/LeetCode/tree/master/0139-word-break) |
@@ -137,6 +138,7 @@ LeetCode
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prasath1462005/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0118-pascals-triangle](https://github.com/prasath1462005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasath1462005/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/prasath1462005/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
