@@ -46,6 +46,7 @@ LeetCode
 | [0010-regular-expression-matching](https://github.com/prasath1462005/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasath1462005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prasath1462005/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/prasath1462005/LeetCode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/prasath1462005/LeetCode/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/prasath1462005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasath1462005/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
