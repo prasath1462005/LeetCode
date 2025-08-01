@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prasath1462005/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/prasath1462005/LeetCode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prasath1462005/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prasath1462005/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -82,6 +83,7 @@ LeetCode
 | ------- |
 | [0039-combination-sum](https://github.com/prasath1462005/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prasath1462005/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prasath1462005/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/prasath1462005/LeetCode/tree/master/0118-pascals-triangle) |
@@ -192,6 +194,7 @@ LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0945-snakes-and-ladders](https://github.com/prasath1462005/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Database
