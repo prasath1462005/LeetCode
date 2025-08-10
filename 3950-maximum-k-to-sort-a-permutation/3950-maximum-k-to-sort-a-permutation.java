@@ -11,12 +11,12 @@ class Solution {
             }
         }
         Collections.sort(l);
-        System.out.println(l);
+        //System.out.println(l);
         if(l.isEmpty())return 0;
         return l.get(0);
     }
     public int dfs(int[] nums,int i,int ans,int[] v){
-        System.out.println(ans);
+        //System.out.println(ans);
         if(v[i]==1)return ans;
         v[i]=1;
         return dfs(nums,nums[i],ans&i,v);
