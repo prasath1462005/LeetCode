@@ -102,6 +102,7 @@ LeetCode
 | [1034-subarrays-with-k-different-integers](https://github.com/prasath1462005/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/prasath1462005/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prasath1462005/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/prasath1462005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/prasath1462005/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prasath1462005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -147,6 +148,7 @@ LeetCode
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasath1462005/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/prasath1462005/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/prasath1462005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prasath1462005/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/prasath1462005/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -200,6 +202,7 @@ LeetCode
 | [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0945-snakes-and-ladders](https://github.com/prasath1462005/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/prasath1462005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Database
 |  |
 | ------- |
