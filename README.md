@@ -94,6 +94,7 @@ LeetCode
 | [0216-combination-sum-iii](https://github.com/prasath1462005/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/prasath1462005/LeetCode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/prasath1462005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/prasath1462005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0881-loud-and-rich](https://github.com/prasath1462005/LeetCode/tree/master/0881-loud-and-rich) |
 | [0940-fruit-into-baskets](https://github.com/prasath1462005/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -136,6 +137,7 @@ LeetCode
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/prasath1462005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prasath1462005/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -201,6 +203,7 @@ LeetCode
 | ------- |
 | [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/prasath1462005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/prasath1462005/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prasath1462005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Database
