@@ -86,6 +86,7 @@ LeetCode
 | [0040-combination-sum-ii](https://github.com/prasath1462005/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasath1462005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/prasath1462005/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/prasath1462005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasath1462005/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -320,4 +321,12 @@ LeetCode
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prasath1462005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasath1462005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasath1462005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
