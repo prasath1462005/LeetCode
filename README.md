@@ -87,6 +87,7 @@ LeetCode
 | [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasath1462005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/prasath1462005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/prasath1462005/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/prasath1462005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasath1462005/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -147,6 +148,7 @@ LeetCode
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prasath1462005/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0085-maximal-rectangle](https://github.com/prasath1462005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/prasath1462005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasath1462005/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/prasath1462005/LeetCode/tree/master/0139-word-break) |
@@ -203,6 +205,7 @@ LeetCode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/prasath1462005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/prasath1462005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/prasath1462005/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -325,8 +328,10 @@ LeetCode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasath1462005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/prasath1462005/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasath1462005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/prasath1462005/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
