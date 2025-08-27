@@ -23,6 +23,7 @@ LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasath1462005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasath1462005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prasath1462005/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0073-set-matrix-zeroes](https://github.com/prasath1462005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/prasath1462005/LeetCode/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/prasath1462005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasath1462005/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -85,6 +86,7 @@ LeetCode
 | [0039-combination-sum](https://github.com/prasath1462005/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prasath1462005/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/prasath1462005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasath1462005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasath1462005/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -205,6 +207,7 @@ LeetCode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prasath1462005/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/prasath1462005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/prasath1462005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/prasath1462005/LeetCode/tree/master/0498-diagonal-traverse) |
