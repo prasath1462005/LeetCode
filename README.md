@@ -40,6 +40,7 @@ LeetCode
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prasath1462005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/prasath1462005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prasath1462005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
@@ -124,6 +125,7 @@ LeetCode
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prasath1462005/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/prasath1462005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/prasath1462005/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/prasath1462005/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/prasath1462005/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -236,6 +238,7 @@ LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/prasath1462005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prasath1462005/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/prasath1462005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Number Theory
 |  |
