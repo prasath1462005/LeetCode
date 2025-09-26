@@ -102,6 +102,7 @@ LeetCode
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prasath1462005/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/prasath1462005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/prasath1462005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/prasath1462005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0881-loud-and-rich](https://github.com/prasath1462005/LeetCode/tree/master/0881-loud-and-rich) |
 | [0940-fruit-into-baskets](https://github.com/prasath1462005/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/prasath1462005/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -136,6 +137,7 @@ LeetCode
 | ------- |
 | [0165-compare-version-numbers](https://github.com/prasath1462005/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/prasath1462005/LeetCode/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/prasath1462005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prasath1462005/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -226,6 +228,7 @@ LeetCode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/prasath1462005/LeetCode/tree/master/0069-sqrtx) |
+| [0611-valid-triangle-number](https://github.com/prasath1462005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/prasath1462005/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -264,6 +267,7 @@ LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/prasath1462005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prasath1462005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prasath1462005/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -283,6 +287,7 @@ LeetCode
 |  |
 | ------- |
 | [0135-candy](https://github.com/prasath1462005/LeetCode/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/prasath1462005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prasath1462005/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prasath1462005/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
