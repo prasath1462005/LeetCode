@@ -236,6 +236,7 @@ LeetCode
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/prasath1462005/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/prasath1462005/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/prasath1462005/LeetCode/tree/master/1161-project-employees-i) |
+| [1174-sales-analysis-iii](https://github.com/prasath1462005/LeetCode/tree/master/1174-sales-analysis-iii) |
 ## Binary Search
 |  |
 | ------- |
