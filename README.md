@@ -129,6 +129,7 @@ LeetCode
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prasath1462005/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prasath1462005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/prasath1462005/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/prasath1462005/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/prasath1462005/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/prasath1462005/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/prasath1462005/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
