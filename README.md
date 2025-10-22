@@ -240,6 +240,7 @@ LeetCode
 | [1174-sales-analysis-iii](https://github.com/prasath1462005/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1390-average-selling-price](https://github.com/prasath1462005/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/prasath1462005/LeetCode/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/prasath1462005/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Binary Search
 |  |
 | ------- |
