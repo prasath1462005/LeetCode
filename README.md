@@ -238,6 +238,7 @@ LeetCode
 | [1153-product-sales-analysis-i](https://github.com/prasath1462005/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/prasath1462005/LeetCode/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/prasath1462005/LeetCode/tree/master/1174-sales-analysis-iii) |
+| [1390-average-selling-price](https://github.com/prasath1462005/LeetCode/tree/master/1390-average-selling-price) |
 ## Binary Search
 |  |
 | ------- |
