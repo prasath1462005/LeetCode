@@ -12,6 +12,7 @@ LeetCode
 | [1370-count-number-of-nice-subarrays](https://github.com/prasath1462005/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prasath1462005/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/prasath1462005/LeetCode/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prasath1462005/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/prasath1462005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prasath1462005/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/prasath1462005/LeetCode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
@@ -38,6 +39,7 @@ LeetCode
 | [1798-max-number-of-k-sum-pairs](https://github.com/prasath1462005/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/prasath1462005/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prasath1462005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prasath1462005/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prasath1462005/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prasath1462005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -260,6 +262,7 @@ LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/prasath1462005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prasath1462005/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath1462005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prasath1462005/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prasath1462005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Number Theory
@@ -314,6 +317,7 @@ LeetCode
 ## Enumeration
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prasath1462005/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prasath1462005/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/prasath1462005/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Recursion
@@ -333,6 +337,7 @@ LeetCode
 | [0078-subsets](https://github.com/prasath1462005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prasath1462005/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/prasath1462005/LeetCode/tree/master/0216-combination-sum-iii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/prasath1462005/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
