@@ -45,6 +45,7 @@ LeetCode
 | [3242-count-elements-with-maximum-frequency](https://github.com/prasath1462005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prasath1462005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/prasath1462005/LeetCode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ LeetCode
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/prasath1462005/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prasath1462005/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/prasath1462005/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prasath1462005/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
@@ -132,6 +134,7 @@ LeetCode
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prasath1462005/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prasath1462005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/prasath1462005/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3606-coupon-code-validator](https://github.com/prasath1462005/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/prasath1462005/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/prasath1462005/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/prasath1462005/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -296,6 +299,7 @@ LeetCode
 | [2479-meeting-rooms-iii](https://github.com/prasath1462005/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prasath1462005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prasath1462005/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3606-coupon-code-validator](https://github.com/prasath1462005/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
